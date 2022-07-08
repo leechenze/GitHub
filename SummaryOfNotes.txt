@@ -13,7 +13,7 @@
     rm 1.txt                                                            删除文件
     rm -rf GitHub/                                                      删除文件夹  rf(强制)
     code .                                                              打开vscode
-
+    ssh-keygen -t rsa -C "邮箱"                                          创建密钥
 
 
 
@@ -276,7 +276,7 @@
     git push GitHub --delete newCreate;
 
     
-
+    
 
 
 
